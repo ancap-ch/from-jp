@@ -6,13 +6,13 @@ fallback: en
 translation: false
 
 # cover
-titles: [The Big Title, The Subtitle, Sub-Sub Title]
-authors: [Author Name, Another Author Name, Third Author Name]
-collaborators: [Collaborator Name, Another Thanked Name, Third Thanked Name]
-thanks: [Thanked Name, Another Thanked Name, Third Thanked Name]
-translators: [Translator Name, Another Translator Name, Third Translator Name]
-reviwers: [Reviwer Name, Another Reviwer Name, Third Reviwer Name]
-tags: [Tag1, Tag2, Tag3, Tag4]
+titles: [大きなタイトル, サブタイトル, サブサブタイトル, Last Title]
+authors: [著者名, 別の著者名, 第三者著者名, Last Author]
+collaborators: [共同編集者名, 別のありがとう名前, 三番目に感謝した名前, Last Collab]
+thanks: [ありがとうございました, 別のありがとう名前, 三番目に感謝した名前, Last Thx]
+translators: [翻訳者名, 別の翻訳者名, 翻訳者名, Last Translator]
+reviwers: [Reviwer名, 別のReviwer名, Third Reviwer名, Last Reviwer]
+tags: [タグ1, タグ2, タグ3, タグ4, Last Gat]
 mds: [test.md]
 
 # urls
